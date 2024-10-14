@@ -1,0 +1,8 @@
+vendor/*
+logs/*
+tmp/*
+.idea
+config/.env
+.gitlab-ci.yml
+composer.json
+config/app.php

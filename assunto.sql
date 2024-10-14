@@ -1,0 +1,22 @@
+CREATE TABLE assuntos (
+  id INT(11) AUTO_INCREMENT PRIMARY KEY,
+  nome VARCHAR(255) NOT NULL
+);
+
+INSERT INTO assuntos(nome)
+VALUES
+('ADOÇÃO'),
+('ALVARÁ'),
+('DISSOLUÇÃO DE UNIÃO ESTÁVEL'),
+('DIVÓRCIO'),
+('EXAME DE DNA'),
+('GUARDA'),
+('INTERDIÇÃO'),
+('INVENTÁRIO'),
+('PENSÃO ALIMENTÍCIA'),
+('PLANO DE SAÚDE'),
+('REGULAMENTAÇÃO DE VISITA'),
+('RETIFICAÇÃO DE REGISTRO CIVIL'),
+('OUTROS');
+
+ALTER TABLE agenda.solicitacoes ADD assunto_id INT(11);

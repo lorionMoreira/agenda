@@ -1,0 +1,255 @@
+/* CSS Menu lateral esquerdo do sistema */
+.menuEsquerdo:hover{
+    text-decoration: none;
+    color:black;
+}
+
+.w-50-percent {
+    width: 50%!important;
+}
+
+.menuEsquerdo{
+    color:#4a5c68;
+
+}
+
+.table-condensed td {
+    padding: 0.25rem!important;
+}
+
+/* Fim */
+/* CSS tabelas painel do assitido */
+.corTexto-cabecalho-tabela{
+    color:#778899;
+}
+
+
+.titulosTabela, .tituloFormulario{
+background-color: #708090;
+color:white;
+border-radius: 15px 15px 0 0;
+}
+
+/* Fim */
+
+#menuLateral, body{
+
+  min-height: 100vh;
+}
+
+/* CSS formulário tela novo agendamento */
+
+#formulario{
+    background-color:#f7f7f7;
+}
+
+.cor-labelformulario{
+    color:#708090;
+}
+
+.rotuloForm {
+    padding: .75rem 1.25rem;
+    border-bottom: 1px solid rgba(0,0,0,.125);
+}
+
+.borda-topo {
+    border-top: 1px solid #dee2e6 !important;
+}
+.alinhar {
+    min-height: 0px;
+}
+#topicoAgendarAtendimento{
+ margin-left:11.2%;
+}
+
+
+
+#esconderAlerta{
+ display:none;
+}
+
+
+
+/*css para corrigir responsividade agendamentos menu lateral */
+/* remover style da div menuLateral e colocar  id como nome menuLateral*/
+
+/*// Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575px) {
+    #menuLateral{
+        display: none;
+    }
+}
+
+/*// Small devices (landscape phones, less than 768px)*/
+@media (max-width: 767px) {
+    #menuLateral{
+        display: none;
+    }
+}
+
+/*// Medium devices (tablets, less than 992px)*/
+@media (max-width: 991px) {
+    #menuLateral{
+        display: none;
+    }
+}
+
+@media screen and (max-width:414px){
+
+  .esconderColunas{
+     display: none;
+    }
+
+  #topicoAgendarAtendimento{
+     margin-left: 0% !important;
+  }
+
+  #topicoPrefeHorario{
+      font-size: 1.3em;
+    }
+
+    #textoTabela{
+     font-size: 0.75em;
+  }
+
+
+}
+
+
+
+@media screen and (max-width:320px){
+  .textoMenu{
+   font-size: 0.8em;
+}
+
+    #menuAgendamento{
+    margin-left: 14% !important;
+}
+
+    #textoTabela{
+    font-size: 0.4em;
+}
+
+}
+
+@media screen and (max-width:420px){
+    #enviar_relato_btn_ia{
+        font-size: 0.8em;
+    }
+}
+
+span#notification{
+    height: 15px !important;
+    width: 15px !important;
+    font-size: 10px;
+    border-radius: 50%;
+    background-color: red;
+    color: white;
+    display:inline-block;
+    text-align:center;
+    margin: auto;
+    visibility: hidden;
+}
+
+span#notification-mb{
+    height: 15px !important;
+    width: 15px !important;
+    font-size: 10px;
+    border-radius: 50%;
+    background-color: red;
+    color: white;
+    display:inline-block;
+    text-align:center;
+    margin: auto;
+    visibility: hidden;
+}
+
+.active-notificacao{
+    visibility: visible !important;
+}
+.checkbox{
+    text-align: center;
+    align-items: center;
+}
+.termos{
+    color: rgb(0, 149, 246) !important;
+    font-weight: bold;
+    cursor: pointer;
+}
+.info-termo{
+    margin: 6px;
+    font-weight: bold;
+}
+
+.popup{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    padding: 70px;
+    width: 80%;
+    justify-content: center;
+    border: 1px solid rgb(208,212,212);
+    border-radius: 8px;
+    z-index: 10;
+}
+.popup-wrapper{
+    background: rgba(0,0,0, .5);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+.loading-audio{
+    background: rgba(0,0,0, .5);
+    position: fixed;
+    top: 0;
+    left: 0;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+.loading-audio-text{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    padding: 20px;
+    width: 25%;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    border: 1px solid rgb(208,212,212);
+    border-radius: 8px;
+    z-index: 10;
+}
+@media only screen and (max-width: 600px) {
+    .loading-audio-text {
+      width: 50%;
+    }
+  }
+.erro-audio{
+    text-align: center;
+}
+.btn-popup{
+    margin-left: 10px;
+    width: 50px;
+    padding: 5px;
+    border: 1px solid #28a745;
+    border-radius: 8px;
+    background-color: #28a745;
+    color: #fff;
+    cursor: pointer;
+}
+.popup-termos-disable{
+    display: none;
+}
+/* css para corrigir resposividade add agendamento */
+/* inserir id topicoPrefeHorario */

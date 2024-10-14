@@ -1,0 +1,337 @@
+/* CSS do input cidade, da aba endereço*/
+.select2-selection__rendered, .select2-selection__arrow{
+    margin-top: 3px !important;
+}
+
+
+.select2-selection__arrow{
+  margin-right: 6px;
+}
+
+/* css para mobile do input cidade*/
+@media screen and (max-width:400px){
+  .select2-selection{
+    width: 275px;
+  }
+
+}
+@media screen and (max-width:360px){
+  .select2-selection{
+    width: 250px;
+  }
+}
+
+@media screen and (max-width:320px){
+  .select2-selection{
+    width: 210px;
+  }
+  .select2-selection__arrow{
+    margin-right: 37px;
+  }
+}
+
+
+
+
+
+/* CSS menu de navegação pagina inicial*/
+.menuNavegacao:hover{
+    background:#515E72;
+}
+
+
+
+/* CSS  Seção explicação para uso do sistema */
+.secaoExplicacao {
+	color: #363636
+
+}
+
+.secaoExplicacao:hover{
+    cursor: pointer;
+    background-color: #dbdbdb;
+    text-decoration: none;
+    color:black;
+}
+/* Fim */
+
+
+
+/* CSS Bordas das telas login, recup. Senha, cadastro*/
+.bordaTela-login-senha-cadastro{
+    border:solid #d0d4d4 1px;
+}
+
+/* Fim */
+
+
+
+/* CSS sessão de cadastro e fale conosco*/
+.menuCadastro{
+    background-color: #515861;
+    color: white;
+}
+
+.menuCadastro:hover{
+    background-color:#343b42;
+    color: white;
+}
+
+#secao-faleConosco{
+    background-color:#f0f0f0;
+    padding-bottom:50px;
+    margin-bottom: 5%;
+}
+/* Fim */
+
+
+/* CSS icone fixo na letaral  direita para voltar ao topo da página */
+#iconeFixo_voltarInicioPagina{
+  position: fixed;
+  right: 0;
+  bottom: 0;
+}
+
+
+/* CSS header, para adaptação mobile */
+
+@media screen and (max-width:414px){
+    #logoDefensoria{
+        width: 20%;
+        align-items: center;
+        margin-left: 40%;
+    }
+
+    #topicoPrincipal{
+        font-size: 1.6rem;
+        text-align: center;
+    }
+
+
+    #subTopico{
+        font-size: 0.8rem;
+        text-align: center;
+    }
+    .botao{
+        display: none;
+    }
+
+}
+
+/* Fim */
+
+
+/* CSS titulos e subtitlos página inicial, para adaptação mobile */
+
+@media screen and (max-width:414px){
+    .topicoDescritivo{
+     display:none;
+
+    }
+}
+/* Fim */
+
+
+/* CSS sessão explicação, adaptação mobile */
+@media screen and (max-width:414px){
+    .imgReduzidas{
+        width: 20%;
+        margin-left: 0.1rem;
+        float: left;
+    }
+
+    .subTitulo_secaoExplicacao{
+        font-size: 1rem;
+        float: left;
+        margin-left: 0.5rem;
+
+    }
+    .bordas{
+        border-bottom: solid #DCDCDC 1px;
+    }
+    .texto_secaoExplicacao{
+        display: none;
+
+    }
+}
+/* CSS Fim */
+
+
+/* CSS sessão ajuda e fala conosco, adaptação mobile */
+@media screen and (max-width:414px){
+    .subTitulo_Ajuda_FaleConosco{
+        font-size: 2rem;
+        display:inline-block;
+
+    }
+    .tituloVideo{
+        font-size:1rem;
+    }
+
+    .tituloDescritivo_Video{
+        display: none;
+
+    }
+
+    #iconePDF{
+        width: 10%;
+        margin-left: 2%;
+    }
+
+    .formulario-faleConosco{
+
+    }
+}
+
+/* fim */
+
+/* loading */
+.modal {
+    display:    none;
+    position:   fixed;
+    z-index:    1000;
+    top:        0;
+    left:       0;
+    height:     100%;
+    width:      100%;
+    background: rgba( 255, 255, 255, .8 )
+                url('http://i.stack.imgur.com/FhHRx.gif')
+                50% 50%
+                no-repeat;
+}
+
+/* When the body has the loading class, we turn
+   the scrollbar off with overflow:hidden 
+body.loading {
+    overflow: hidden;
+}
+*/
+/* Anytime the body has the loading class, our
+   modal element will be visible */
+body.loading .modal {
+    display: block;
+}
+
+.spinner{
+    display: block !important;
+}
+
+#msg-id{
+    cursor: pointer;
+}
+.btn-back{
+    background-color: transparent;
+    border-radius: 50px;
+    border-color: transparent;
+    background-position: center;
+    height: 38px;
+    width: 38px;
+    cursor: pointer;
+    transition: 0.8s;
+}
+.btn-back:focus{
+    box-shadow: 0 0 0 0;
+    outline: 0;
+}
+.btn-back:hover{
+    height: 38px;
+    width: 38px;
+    background-color: rgba(128, 128, 128, 0.233);
+}
+.img-icon-dpe{
+    border-radius: 50%;
+    height: 50px;
+}
+.painel-msg{
+    padding: 30px;
+}
+.title-mensagem{
+    padding: 3px 8px;
+}
+.title-msg{
+    margin: 0;
+}
+.sub-title-mensagem{
+    font-size: 12px;
+    margin: 0;
+    color: gray;
+}
+.title-dpe{
+    padding-left: 55px;
+}
+.data-mensgem{
+    margin-left: auto;
+    padding: 10px;
+}
+.mensagem-cx{
+    padding: 30px;
+}
+.anexos-msg{
+    text-align: center;
+    margin-top: 10px;
+    margin-right: 2px;
+}
+.registro-msg{
+    color: rgba(48, 48, 48, 0.807);
+}
+.info-msg{
+    justify-content: center;
+}
+.situacao-msg{
+    color: rgba(48, 48, 48, 0.807);
+}
+.btn-audio{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    cursor: pointer;
+    padding: 0 !important;
+}
+.btn-audio:hover {
+    height: 55px;
+    width: 55px;
+  }
+
+  @keyframes animacao-botao {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.2);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+  @media only screen and (max-width: 600px) {
+    #btnDelete{
+        height: 40px;
+        width: 40px;
+    }
+    audio{
+      width: 250px;
+    }
+  }
+.none-audio{
+    display: none;
+}
+#timeAudio{
+    font-size: 15px;
+    margin: 15px;
+    height: 27px;
+    width: 40px;
+    background-color: white;
+    border-radius: 5px;
+    padding: 2px;
+}
+
+#btnStop{
+    border-color: #f57576;
+    animation: audio 2s;
+    animation-iteration-count: infinite;
+
+}
+@keyframes audio {
+    0% {border-width: 0px;}
+    25% {border-width: 9px;}
+}

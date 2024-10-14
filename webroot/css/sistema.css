@@ -1,0 +1,48 @@
+.row{
+    
+ /border: solid black 2px;
+}
+
+.col-md-3, .col-md-6,table, .table-responsive{
+ /border: solid red 1px
+}
+
+
+
+.menuEsquerdoSistema:hover{
+    text-decoration: none;
+    color:#3f4748;
+    
+    
+}
+
+.menuEsquerdoSistema{
+
+    color:#4a5c68;
+    
+}
+
+.corTexto-cabecalho-tabela{
+  
+    color:#778899;
+    
+}
+
+
+#titulo-1, #titulo-2,#titulo-agendar-atendimento{
+
+background-color: #708090;
+color:white;
+border-radius: 15px 15px 0 0; 
+}
+
+#formulario{
+    height:auto;
+    background-color:#f7f7f7;"
+ 
+
+}
+	
+.cor-labelformulario{
+    color:#708090;
+}   

@@ -1,0 +1,735 @@
+[
+  {
+    "name": "Sede Administrativa – CAB",
+    "address": "Avenida Ulisses Guimarães",
+    "number": "3.386, Edf. MultiCab Empresarial",
+    "cep": "41219-400",
+    "city": "Salvador",
+    "district": "CAB",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(071) 3117-9118, (071) 3117-9119",
+    "officeHours": "Atendimento: de segunda a sexta-feira das 8h às 17h.",
+    "latitude": -12.9410579,
+    "longitude": -38.4323521,
+    "isMain": 1
+  },
+  {
+    "name": "Casa de Acesso à Justiça I - Jardim Baiano",
+    "address": "Rua Arquimedes Gonçalves",
+    "number": "313",
+    "cep": "40050-310",
+    "city": "Salvador",
+    "district": "Jardim Baiano",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(071) 3116-6777",
+    "officeHours": "Funcionamento: 8h às 18h.",
+    "officeHoursInternal": "Triagem: 7h30 às 11h30.",
+    "coords": {
+      "latitude": -12.9815306,
+      "longitude": -38.5084434
+    },
+    "hidden": false
+  },
+  {
+    "name": "Casa de Acesso à Justiça II - Tororó",
+    "address": "Rua José Duarte",
+    "number": "56",
+    "cep": "40050-300",
+    "city": "Salvador",
+    "district": "Tororó",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(071) 3116-0510, (071) 3116-0514, (071) 3116-0518",
+    "officeHours": "Funcionamento: 8h às 18h.",
+    "officeHoursInternal": "Triagem: 7h30 às 11h30.",
+    "coords": {
+      "latitude": -12.9809519,
+      "longitude": -38.5110011
+    },
+    "hidden": false
+  },
+  {
+    "name": "Núcleo de Assistência Judiciária - NAJ",
+    "address": "Av. J.J. Seabra",
+    "number": "111, Shopping Baixa dos Sapateiros, 2º Piso",
+    "cep": "40026-900",
+    "city": "Salvador",
+    "district": "Nazaré",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(071) 3117-6684, (071) 3117-6798",
+    "officeHours": "Funcionamento: 8h00 às 17h00.",
+    "officeHoursInternal": "Triagem/Agendamento: 8h30 às 17h00.",
+    "coords": {
+      "latitude": -12.9761221,
+      "longitude": -38.5111956
+    },
+    "hidden": false
+  },
+  {
+    "name": "Fórum Ruy Barbosa, Subsolo, Sala 05",
+    "address": "Largo do Campo da Pólvora",
+    "number": "",
+    "cep": "40040-900",
+    "city": "Salvador",
+    "district": "Nazaré",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(071) 3116-6684",
+    "officeHours": "Atendimento: 8h00 às 17h00.",
+    "officeHoursInternal": "Informações: 8h00 às 18h00.",
+    "coords": {
+      "latitude": -12.9782318,
+      "longitude": -38.5102391
+    },
+    "hidden": false
+  },
+  {
+    "name": "1ª Vara da Infância e da Juventude - Garibaldi",
+    "address": "Rua Agnelo de Brito",
+    "number": "72",
+    "cep": "40210-245",
+    "city": "Salvador",
+    "district": "Garibaldi",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(071) 3203-9314",
+    "officeHours": "Atendimento: 2ª a 6ª (turno integral)",
+    "coords": {
+      "latitude": -13.0007028,
+      "longitude": -38.5054125
+    },
+    "hidden": false
+  },
+  {
+    "name": "2ª Vara da Infância e da Juventude - Centro Integrado de Atendimento ao Adolescente - Bonocô",
+    "address": "Avenida Mário Leal Ferreira (Bonocô)",
+    "number": "",
+    "cep": "40285-600",
+    "city": "Salvador",
+    "district": "Bonocô",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(071) 3116-2034, (071) 3244-1052 Ramal 216",
+    "officeHours": "Atendimento: 2ª a 6ª (turno integral)",
+    "coords": {
+      "latitude": -12.9794185,
+      "longitude": -38.4994758
+    },
+    "hidden": false
+  },
+  {
+    "name": "5ª Vara da Infância e da Juventude - Centro Integrado de Atendimento ao Adolescente - Bonocô",
+    "address": "Avenida Mário Leal Ferreira (Bonocô)",
+    "number": "",
+    "cep": "40285-600",
+    "city": "Salvador",
+    "district": "Bonocô",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(071) 3116-2034, (071) 3244-1052 Ramal 216",
+    "officeHours": "Atendimento: 2ª a 6ª (turno integral)",
+    "coords": {
+      "latitude": -12.9794185,
+      "longitude": -38.4994758
+    },
+    "hidden": false
+  },
+  {
+    "name": "1º Juizado Especial Criminal - Nazaré",
+    "address": "Av. J.J. Seabra",
+    "number": "111, Shopping Baixa dos Sapateiros, 1º Andar",
+    "cep": "40025-900",
+    "city": "Salvador",
+    "district": "Nazaré",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(071) 3421-6104",
+    "officeHours": "Atendimento: 2ª a 6ª (turno integral)",
+    "coords": {
+      "latitude": -12.9761221,
+      "longitude": -38.5111956
+    },
+    "hidden": false
+  },
+  {
+    "name": "2º Juizado Especial Criminal - Itapuã",
+    "address": "Av. Dorival Caymmi",
+    "number": "14.130, Centro Empresarial Itapuã",
+    "cep": "41635-150",
+    "city": "Salvador",
+    "district": "Itapuã",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(071) 3282-2613, (071) 3285-2350",
+    "officeHours": "Atendimento: 2ª, 4ª e 6ª (turno integral), 3ª e 5ª (turno vespertino)",
+    "coords": {
+      "latitude": -12.9310687,
+      "longitude": -38.3592276
+    },
+    "hidden": false
+  },
+  {
+    "name": "Extensão do 2º Juizado Especial Criminal - Largo do Tanque",
+    "address": "Praça Luís Gama",
+    "number": "640, Lojas 1 e 2",
+    "cep": "40349-250",
+    "city": "Salvador",
+    "district": "Largo do Tanque",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(071) 3312-1818",
+    "officeHours": "Atendimento: 3ª, 5ª e 6ª (turno integral), 2ª e 4ª (turno vespertino)",
+    "coords": {
+      "latitude": -12.9636673,
+      "longitude": -38.5062486
+    },
+    "hidden": false
+  },
+  {
+    "name": "Escola Superior da Defensoria Pública – ESDEP",
+    "address": "Rua Pedro Lessa",
+    "number": "123",
+    "cep": "40110-050",
+    "city": "Salvador",
+    "district": "Canela",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(071) 3338-2239",
+    "officeHours": "Atendimento: segunda a sexta-feira, das 9h às 12h e 13h30 às 16h30",
+    "coords": {
+      "latitude": -12.9940992,
+      "longitude": -38.5258155
+    },
+    "hidden": false
+  },
+  {
+    "name": "1ª Vara de Violência Doméstica e Familiar contra a Mulher - Barris",
+    "address": "Rua Conselheiro Spínola",
+    "number": "77",
+    "cep": "40070-130",
+    "city": "Salvador",
+    "district": "Barris",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(071) 3328-1195",
+    "officeHours": "Atendimento: 2ª a 6ª (turno integral)",
+    "coords": {
+      "latitude": -12.9863981,
+      "longitude": -38.515008
+    },
+    "hidden": false
+  },
+  {
+    "name": "2ª Vara de Violência Doméstica e Familiar contra a Mulher - Imbuí",
+    "address": "Rua Padre Casimiro Quiroga",
+    "number": "2403",
+    "cep": "41720-400",
+    "city": "Salvador",
+    "district": "Imbuí",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(071) 3328-1195",
+    "officeHours": "Atendimento: 2ª a 6ª (turno integral)",
+    "coords": {
+      "latitude": -12.9648278,
+      "longitude": -38.4375784
+    },
+    "hidden": false
+  },
+  {
+    "name": "Tribunal de Justiça – Instância Superior",
+    "address": "5ª Avenida do Centro Administrativo da Bahia",
+    "number": "560, Sala 110, Sul",
+    "cep": "41745-971",
+    "city": "Salvador",
+    "district": "CAB",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(071) 3372-5501, (071) 3372-5500",
+    "officeHours": "Atendimento: 2ª a 6ª (turno integral)",
+    "coords": {
+      "latitude": -12.9462586,
+      "longitude": -38.4360498
+    },
+    "hidden": false
+  },
+  {
+    "name": "Paulo Afonso - Casa de Acesso à Justiça",
+    "address": "Rua Pero Vaz de Caminha",
+    "number": "178",
+    "cep": "45810-000",
+    "city": "Paulo Afonso",
+    "district": "Centro",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(075) 3282-6141",
+    "officeHours": "Atendimento: 2ª a 6ª (turno integral)",
+    "coords": {
+      "latitude": -9.4122666,
+      "longitude": -38.2189298
+    },
+    "hidden": false
+  },
+  {
+    "name": "Vitória da Conquista - Casa de Acesso à Justiça",
+    "address": "Praça Estevão Santos",
+    "number": "95",
+    "cep": "45020-070",
+    "city": "Vitória da Conquista",
+    "district": "Centro",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(077) 3421-4584, (077) 3421-8628, (077) 3421-8969",
+    "officeHours": "Atendimento: 2ª a 6ª (turno integral)",
+    "coords": {
+      "latitude": -14.8541488,
+      "longitude": -40.8400564
+    },
+    "hidden": false
+  },
+  {
+    "name": "Brumado - Casa de Acesso à Justiça",
+    "address": "Rua Rio de Contas",
+    "number": "459",
+    "cep": "46100-000",
+    "city": "Brumado",
+    "district": "Monsenhor Fagundes",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(077) 3441-5458",
+    "officeHours": "Atendimento: 2ª a 6ª (turno integral)",
+    "coords": {
+      "latitude": -14.203179,
+      "longitude": -41.6790502
+    },
+    "hidden": false
+  },
+  {
+    "name": "Guanambi - Casa de Acesso à Justiça",
+    "address": "Travessa Euclides da Cunha",
+    "number": "119",
+    "cep": "46430-000",
+    "city": "Guanambi",
+    "district": "Centro",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(077) 3451-2773, (077) 3451-2823",
+    "officeHours": "Atendimento: 2ª a 6ª (turno integral)",
+    "coords": {
+      "latitude": -14.2266916,
+      "longitude": -42.7841901
+    },
+    "hidden": false
+  },
+  {
+    "name": "Itapetinga - Casa de Acesso à Justiça",
+    "address": "Fórum - Rua Coronel Belizario Ferraz",
+    "number": "137",
+    "cep": "45700-000",
+    "city": "Itapetinga",
+    "district": "Centro",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(077) 3451-8854",
+    "officeHours": "Atendimento: 2ª a 6ª (turno integral)",
+    "coords": {
+      "latitude": -15.2438705,
+      "longitude": -40.2506738
+    },
+    "hidden": false
+  },
+  {
+    "name": "Ilhéus - Casa de Acesso à Justiça",
+    "address": "Avenida Canavieiras",
+    "number": "170",
+    "cep": "45652-125",
+    "city": "Ilhéus",
+    "district": "Centro",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(073) 3633-5590, (073) 3633-5591, Administrativo: (073) 3633-5591, CEAFLAN: (073) 3633-5590, Fax: (073) 3633-5591",
+    "officeHours": "Atendimento: 2ª a 6ª (turno integral)",
+    "coords": {
+      "latitude": -14.7923345,
+      "longitude": -39.0361528
+    },
+    "hidden": false
+  },
+  {
+    "name": "Ilhéus - Fórum Epaminondas Bebert de Castro",
+    "address": "Av. Osvaldo Cruz",
+    "number": "",
+    "cep": "45660-000",
+    "city": "Ilhéus",
+    "district": "Cidade Nova",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(073) 3234-3401, (073) 3234-3410, (073) 3234-3411, Fax: (073) 3234-3405",
+    "officeHours": "Atendimento: 2ª a 6ª (turno integral)",
+    "coords": {
+      "latitude": -14.7885842,
+      "longitude": -39.0364991
+    },
+    "hidden": false
+  },
+  {
+    "name": "Itabuna - Casa de Acesso à Justiça",
+    "address": "Rua das Nações Unidas",
+    "number": "732",
+    "cep": "45600-923",
+    "city": "Itabuna",
+    "district": "Centro",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(073) 3214-5910, (073) 3214-5997",
+    "officeHours": "Atendimento: 2ª a 6ª (turno integral)",
+    "coords": {
+      "latitude": -14.7952828,
+      "longitude": -39.2841832
+    },
+    "hidden": false
+  },
+  {
+    "name": "Jequié – Casa de Acesso à Justiça",
+    "address": "Rua Quinze de Novembro",
+    "number": "332",
+    "cep": "45201-570",
+    "city": "Jequié",
+    "district": "Centro",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(073) 3527-1966, (073) 3527-8810, (073) 3525-1711",
+    "officeHours": "Atendimento: 2ª a 6ª (turno integral)",
+    "coords": {
+      "latitude": -13.8572763,
+      "longitude": -40.0784467
+    },
+    "hidden": false
+  },
+  {
+    "name": "Teixeira de Freitas – Casa de Acesso à Justiça",
+    "address": "Rua Águas Claras",
+    "number": "523",
+    "cep": "45990-280",
+    "city": "Teixeira de Freitas",
+    "district": "Bela Vista Centro",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(073) 3263-4806",
+    "officeHours": "Atendimento: 2ª a 6ª (turno integral)",
+    "coords": {
+      "latitude": -17.5406397,
+      "longitude": -39.7381999
+    },
+    "hidden": false
+  },
+  {
+    "name": "Porto Seguro – Casa de Acesso à Justiça",
+    "address": "Rua Pero Vaz Caminha",
+    "number": "178",
+    "cep": "40050-001",
+    "city": "Porto Seguro",
+    "district": "Centro",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(073) 3268-8685, (073) 3268-8612, (073) 3268-8622",
+    "officeHours": "Atendimento: 2ª a 6ª (turno integral)",
+    "coords": {
+      "latitude": -16.449265,
+      "longitude": -39.0672834
+    },
+    "hidden": false
+  },
+  {
+    "name": "Eunápolis – Casa de Acesso à Justiça",
+    "address": "Rua Floriano Peixoto",
+    "number": "293",
+    "cep": "45820-340",
+    "city": "Eunápolis",
+    "district": "Centro",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(073) 3281-5525, (073) 3281-5724",
+    "officeHours": "Atendimento: 2ª a 6ª (turno integral)",
+    "coords": {
+      "latitude": -16.3766966,
+      "longitude": -39.5861871
+    },
+    "hidden": false
+  },
+  {
+    "name": "Juazeiro – Casa de Acesso à Justiça",
+    "address": "Rua do Paraíso",
+    "number": "152",
+    "cep": "48903-050",
+    "city": "Juazeiro",
+    "district": "Santo Antônio",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "Telefax: (074) 3162-1079",
+    "officeHours": "Atendimento: 2ª a 6ª (turno integral)",
+    "coords": {
+      "latitude": -9.4112746,
+      "longitude": -40.5102285
+    },
+    "hidden": false
+  },
+  {
+    "name": "Jacobina - Casa de Acesso à Justiça",
+    "address": "Rua da Conceição",
+    "number": "78",
+    "cep": "44700-000",
+    "city": "Jacobina",
+    "district": "Centro",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(074) 3622-2203",
+    "officeHours": "Atendimento: 2ª a 6ª (turno integral)",
+    "coords": {
+      "latitude": -11.1825122,
+      "longitude": -40.5136548
+    },
+    "hidden": false
+  },
+  {
+    "name": "Senhor do Bonfim - Casa de Acesso à Justiça",
+    "address": "Avenida Roberto Santos",
+    "number": "735",
+    "cep": "48970-000",
+    "city": "Senhor do Bonfim",
+    "district": "Marista",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(074) 3541-4095, (074) 3541-9837, (074) 3541-9839",
+    "officeHours": "Atendimento: 2ª a 6ª (turno integral)",
+    "coords": {
+      "latitude": -10.4680284,
+      "longitude": -40.1846226
+    },
+    "hidden": false
+  },
+  {
+    "name": "Amargosa - Fórum da Comarca de Amargosa",
+    "address": "Praça Tiradentes",
+    "number": "366",
+    "cep": "45330-000",
+    "city": "Amargosa",
+    "district": "Centro",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(075) 3634-1754",
+    "officeHours": "Atendimento: 2ª a 6ª (turno integral)",
+    "coords": {
+      "latitude": -13.02961,
+      "longitude": -39.6049616
+    },
+    "hidden": false
+  },
+  {
+    "name": "Valença - Fórum da Comarca de Valença",
+    "address": "Rua Adaue Chahoud",
+    "number": "",
+    "cep": "45400-000",
+    "city": "Valença",
+    "district": "Novo Horizonte",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(075) 3643-1420",
+    "officeHours": "Atendimento: 2ª a 6ª (turno integral)",
+    "coords": {
+      "latitude": -13.3487744,
+      "longitude": -39.0591765
+    },
+    "hidden": false
+  },
+  {
+    "name": "Lauro de Freitas - Casa de Acesso à Justiça",
+    "address": "Rua Mucugê",
+    "number": "87, Edifício Norte Garden",
+    "cep": "42700-000",
+    "city": "Lauro de Freitas",
+    "district": "Centro",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(071) 3288-7727, (071) 3288-9373",
+    "officeHours": "Atendimento: 2ª a 6ª (turno integral)",
+    "coords": {
+      "latitude": -12.8935557,
+      "longitude": -38.3268395
+    },
+    "hidden": false
+  },
+  {
+    "name": "Simões Filho - Fórum da Comarca de Simões Filho",
+    "address": "Avenida Altamirando de Araújo Ramos",
+    "number": "",
+    "cep": "43700-000",
+    "city": "Simões Filho",
+    "district": "Centro",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(071) 3396-9075, (071) 3396-9601",
+    "officeHours": "Atendimento: 2ª a 6ª (turno integral)",
+    "coords": {
+      "latitude": -12.7870255,
+      "longitude": -38.4054847
+    },
+    "hidden": false
+  },
+  {
+    "name": "Camaçari - Casa de Acesso à Justiça",
+    "address": "Rua Monte Gordo",
+    "number": "63",
+    "cep": "42802-500",
+    "city": "Camaçari",
+    "district": "Centro",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(071) 3622-6478, (071) 3622-3644, (071) 3622-2056",
+    "officeHours": "Atendimento: 2ª a 6ª (turno integral)",
+    "coords": {
+      "latitude": -12.7093671,
+      "longitude": -38.3227172
+    },
+    "hidden": false
+  },
+  {
+    "name": "Feira de Santana - Casa de Acesso à Justiça",
+    "address": "Rua Prof. Germiniano Costa",
+    "number": "",
+    "cep": "44001-120",
+    "city": "Feira de Santana",
+    "district": "Centro",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(075) 3614-6963, (075) 3614-8355",
+    "officeHours": "Atendimento: 08h às 12h, 14h às 16h.",
+    "coords": {
+      "latitude": -12.2512379,
+      "longitude": -38.9625282
+    },
+    "hidden": false
+  },
+  {
+    "name": "Alagoinhas - Casa de Acesso à Justiça",
+    "address": "Rua Marcella Boiron Cardoso",
+    "number": "184",
+    "cep": "48100-000",
+    "city": "Alagoinhas",
+    "district": "Centro",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(075) 3422-8438",
+    "officeHours": "Atendimento: 2ª a 6ª (turno integral)",
+    "coords": {
+      "latitude": -12.1416854,
+      "longitude": -38.4207231
+    },
+    "hidden": false
+  },
+  {
+    "name": "Serrinha - Casa de Acesso à Justiça",
+    "address": "Rua Antônio Pinheiro da Mota",
+    "number": "319",
+    "cep": "48700-000",
+    "city": "Serrinha",
+    "district": "Estação",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(075) 3261-2361, (075) 3261-8396",
+    "officeHours": "Atendimento: 2ª a 6ª (turno integral)",
+    "coords": {
+      "latitude": -11.6618304,
+      "longitude": -39.0116385
+    },
+    "hidden": false
+  },
+  {
+    "name": "Esplanada - Fórum da Comarca de Esplanada",
+    "address": "Praça Monsenhor Zacarias Luz",
+    "number": "48",
+    "cep": "48370-000",
+    "city": "Esplanada",
+    "district": "Centro",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(075) 3427-1495",
+    "officeHours": "Atendimento: 2ª a 6ª (turno integral)",
+    "coords": {
+      "latitude": -11.7954982,
+      "longitude": -37.9443831
+    },
+    "hidden": false
+  },
+  {
+    "name": "Barreiras - Casa de Acesso à Justiça",
+    "address": "Rua 21 de Setembro",
+    "number": "197, Quadra J",
+    "cep": "45990-280",
+    "city": "Barreiras",
+    "district": "Loteamento Primavera",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(073) 3263-4806",
+    "officeHours": "Atendimento: 2ª a 6ª (turno integral)",
+    "coords": {
+      "latitude": -12.1509777,
+      "longitude": -44.9913306
+    },
+    "hidden": false
+  },
+  {
+    "name": "Irecê - Casa de Acesso à Justiça",
+    "address": "Rua Antônio Carlos Magalhães",
+    "number": "31",
+    "cep": "44900-000",
+    "city": "Irecê",
+    "district": "Centro – SAC",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(074) 3641-6941",
+    "officeHours": "Atendimento: 2ª a 6ª (turno integral)",
+    "coords": {
+      "latitude": -11.3011809,
+      "longitude": -41.856276
+    },
+    "hidden": false
+  },
+  {
+    "name": "Santo Antônio de Jesus - Casa de Acesso à Justiça",
+    "address": "Loteamento Quinta do Inglês, Rua A",
+    "number": "01",
+    "cep": "44571-069",
+    "city": "Santo Antônio de Jesus",
+    "district": "Centro",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(075) 3632-0712, (075) 3632-0830, (075) 3632-0926, (075) 3632-2143",
+    "officeHours": "Atendimento: 2ª a 6ª (turno integral)",
+    "coords": {
+      "latitude": -12.965934,
+      "longitude": -39.2716973
+    },
+    "hidden": false
+  },
+  {
+    "name": "Santo Amaro - Fórum da Comarca de Santo Amaro",
+    "address": "Avenida Presidente Vargas",
+    "number": "148",
+    "cep": "44200-000",
+    "city": "Santo Amaro",
+    "district": "Centro",
+    "state": "Bahia",
+    "country": "BR",
+    "phones": "(075) 3241-2114, (075) 3241-4701, (075) 3241-2115",
+    "officeHours": "Atendimento: 2ª a 6ª (turno integral)",
+    "coords": {
+      "latitude": -12.5507933,
+      "longitude": -38.7128692
+    },
+    "hidden": false
+  }
+]
